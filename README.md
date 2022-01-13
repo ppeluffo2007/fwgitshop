@@ -1,6 +1,7 @@
 # fwgitshop
+A demo for testing GitHub
 title
 programs
 function
-how to use
-how to contribute
+howtouse
+howtocontribute
